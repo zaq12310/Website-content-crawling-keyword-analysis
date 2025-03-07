@@ -74,7 +74,7 @@ headers = {
 
 3. 复制各个分页url到txt文件中，发现各个分页在某处不同
 
-   ![image=202503061354779](https://cdn.jsdelivr.net/gh/zaq12310/cloud-image-hosting/Typora img/202503061354779.png)
+   ![image-202503061354779](https://cdn.jsdelivr.net/gh/zaq12310/cloud-image-hosting/Typora%20img/202503061354779.png)
 
    ![image-20250306141559699](https://cdn.jsdelivr.net/gh/zaq12310/cloud-image-hosting/Typora%20img/202503061416989.png)
 
